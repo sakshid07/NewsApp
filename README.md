@@ -1,5 +1,5 @@
 # News App
 
-A new Flutter project using an api.
+A new Flutter project using an API.
 
 
